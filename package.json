@@ -1,0 +1,26 @@
+{
+  "name": "meanstagram",
+  "version": "1.0.0",
+  "description": "Instagram clone using MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubosmichalic/MEANstagram.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Express.js",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Lubos Michalic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubosmichalic/MEANstagram/issues"
+  },
+  "homepage": "https://github.com/lubosmichalic/MEANstagram#readme"
+}
